@@ -41,7 +41,8 @@
             "banshee",
             "vlc",
             "rhythmbox",
-            "org.telegram.desktop"
+            "org.telegram.desktop",
+            "firefox"
         ]
     },
     "section2": {

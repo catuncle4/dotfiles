@@ -16,6 +16,7 @@ fcitx5-gtk
 fcitx5-material-color
 fcitx5-qt
 fcitx5-rime
+firefox
 flameshot
 gcc-fortran
 gdal

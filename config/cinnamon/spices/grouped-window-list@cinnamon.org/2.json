@@ -166,8 +166,8 @@
             "nemo.desktop",
             "xfce4-terminal.desktop",
             "code.desktop",
-            "google-chrome.desktop",
-            "org.telegram.desktop.desktop"
+            "org.telegram.desktop.desktop",
+            "firefox.desktop"
         ]
     },
     "group-apps": {

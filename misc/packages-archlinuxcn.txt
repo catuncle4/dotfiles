@@ -1,7 +1,6 @@
 bio-tbtools
 clash-verge-rev-bin
 freetype2-wps
-google-chrome
 libtiff5
 lightdm-settings
 linuxqq
