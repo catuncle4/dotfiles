@@ -1,4 +1,5 @@
 adobe-source-han-serif-cn-fonts
+android-tools
 archlinuxcn-keyring
 base
 base-devel
@@ -16,12 +17,12 @@ fcitx5-gtk
 fcitx5-material-color
 fcitx5-qt
 fcitx5-rime
-firefox
 flameshot
 gcc-fortran
 gdal
 gdb
 geos
+gnome-keyring
 grub
 gvfs
 htop
@@ -35,7 +36,6 @@ mpv
 nano
 nemo
 networkmanager
-nodejs
 nomacs
 noto-fonts
 noto-fonts-cjk
@@ -49,10 +49,10 @@ nvidia-utils
 p7zip
 papirus-icon-theme
 pipewire-pulse
-pnpm
 proj
 r
 rclone
+rclone-browser
 rime-ice-pinyin-git
 scite
 sudo
@@ -61,7 +61,6 @@ timeshift
 ttf-dejavu
 vim
 wqy-zenhei
-xarchiver
 xf86-video-vesa
 xfce4-terminal
 xorg-bdftopcf

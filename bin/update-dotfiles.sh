@@ -17,7 +17,7 @@ cp $HOME/.local/share/fcitx5/rime/installation.yaml $DOTFILES/config/fcitx5/rime
 cp $HOME/.config/autostart $DOTFILES/config/ -r
 cp $HOME/.config/Code/User/settings.json $DOTFILES/config/ -r
 cp $HOME/.config/flameshot $DOTFILES/config/ -r
-cp $HOME/.config/cinnamon $DOTFILES/config/ -r
+# cp $HOME/.config/cinnamon $DOTFILES/config/ -r
 
 # /etc/
 cp /etc/pacman.conf $DOTFILES/conf/
