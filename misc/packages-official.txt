@@ -56,7 +56,7 @@ rclone-browser
 rime-ice-pinyin-git
 scite
 sudo
-telegram-desktop
+thunar
 timeshift
 ttf-dejavu
 vim

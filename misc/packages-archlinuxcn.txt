@@ -5,8 +5,10 @@ google-chrome
 libtiff5
 lightdm-settings
 linuxqq
+lx-music-desktop-git
 mambaforge
 matcha-gtk-theme
+rar
 ttf-harmonyos-sans
 ttf-wps-fonts
 udunits

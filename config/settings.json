@@ -1,7 +1,6 @@
 {
     "workbench.startupEditor": "none",
     "security.workspace.trust.enabled": false,
-    "window.titleBarStyle": "custom",
     "workbench.colorTheme": "GitHub Dark",
     "workbench.iconTheme": "material-icon-theme",
     "r.rterm.linux": "/usr/bin/R",
@@ -17,5 +16,7 @@
     "explorer.confirmDelete": false,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "update.showReleaseNotes": false,
+    "window.titleBarStyle": "custom"
 }
