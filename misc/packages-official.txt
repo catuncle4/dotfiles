@@ -1,5 +1,4 @@
 adobe-source-han-serif-cn-fonts
-android-tools
 archlinuxcn-keyring
 base
 base-devel
@@ -8,6 +7,7 @@ bluez-utils
 btrfs-progs
 cinnamon
 cmake
+docker
 efibootmgr
 fastfetch
 fcitx5
@@ -46,6 +46,7 @@ numlockx
 nvidia-open
 nvidia-settings
 nvidia-utils
+ollama
 p7zip
 papirus-icon-theme
 pipewire-pulse

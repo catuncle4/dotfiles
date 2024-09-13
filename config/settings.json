@@ -1,7 +1,7 @@
 {
     "workbench.startupEditor": "none",
     "security.workspace.trust.enabled": false,
-    "workbench.colorTheme": "GitHub Dark",
+    "workbench.colorTheme": "GitHub Light",
     "workbench.iconTheme": "material-icon-theme",
     "r.rterm.linux": "/usr/bin/R",
     "r.rterm.option": [
@@ -18,5 +18,5 @@
     "git.confirmSync": false,
     "explorer.confirmDragAndDrop": false,
     "update.showReleaseNotes": false,
-    "window.titleBarStyle": "custom"
+    "marscode.chatLanguage": "cn"
 }
