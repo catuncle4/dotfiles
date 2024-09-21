@@ -25,4 +25,4 @@ cp $DOTFILES/conf/lightdm.conf /etc/lightdm/
 cp $DOTFILES/conf/64-language-selector-prefer.conf /etc/fonts/conf.d/
 
 # /usr/lib/systemd/system/
-cp $DOTFILES/systemd /usr/lib/systemd/system/rclone.service
+cp $DOTFILES/systemd/rclone.service /usr/lib/systemd/system/
