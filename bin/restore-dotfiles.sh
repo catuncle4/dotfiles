@@ -7,6 +7,7 @@ cp $DOTFILES/condarc $HOME/.condarc
 cp $DOTFILES/bashrc $HOME/.bashrc
 cp $DOTFILES/gitconfig $HOME/.gitconfig
 cp $DOTFILES/Rprofile $HOME/.Rprofile
+cp $DOTFILES/SciTEUser.properties $HOME/.SciTEUser.properties
 
 # ~/.local/
 cp $DOTFILES/config/fcitx5/rime/default.custom.yaml $HOME/.local/share/fcitx5/rime/ -f

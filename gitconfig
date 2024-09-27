@@ -1,12 +1,7 @@
 [user]
-	name = yuanj
-	email = yuanj.top@gmail.com
+	name = imjiaoyuan
+	email = imjiaoyuan@gmail.com
 [credential]
 	helper = store
-[http]
-	proxy = http://127.0.0.1:7897
-	schannelCheckRevoke = false
-[https]
-	proxy = http://127.0.0.1:7897
 [core]
 	quotepath = false
